@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-01-16T23:32:16 GMT-08:00" name="Default suite" finished-at="2023-01-16T23:32:16 GMT-08:00" duration-ms="164">
+    <groups>
+    </groups>
+    <test started-at="2023-01-16T23:32:16 GMT-08:00" name="Default test" finished-at="2023-01-16T23:32:16 GMT-08:00" duration-ms="164">
+      <class name="sample.testng.TestNG">
+        <test-method is-config="true" signature="beforesiute()[pri:0, instance:sample.testng.TestNG@3cebbb30]" started-at="2023-01-16T23:32:16 GMT-08:00" name="beforesiute" finished-at="2023-01-16T23:32:16 GMT-08:00" duration-ms="37" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforesiute -->
+        <test-method is-config="true" signature="beforeclass()[pri:0, instance:sample.testng.TestNG@3cebbb30]" started-at="2023-01-16T23:32:16 GMT-08:00" name="beforeclass" finished-at="2023-01-16T23:32:16 GMT-08:00" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeclass -->
+        <test-method is-config="true" signature="beforesmethod()[pri:0, instance:sample.testng.TestNG@3cebbb30]" started-at="2023-01-16T23:32:16 GMT-08:00" name="beforesmethod" finished-at="2023-01-16T23:32:16 GMT-08:00" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforesmethod -->
+        <test-method signature="testmethod()[pri:0, instance:sample.testng.TestNG@3cebbb30]" started-at="2023-01-16T23:32:16 GMT-08:00" name="testmethod" finished-at="2023-01-16T23:32:16 GMT-08:00" duration-ms="19" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testmethod -->
+        <test-method is-config="true" signature="Aftermethod()[pri:0, instance:sample.testng.TestNG@3cebbb30]" started-at="2023-01-16T23:32:16 GMT-08:00" name="Aftermethod" finished-at="2023-01-16T23:32:16 GMT-08:00" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Aftermethod -->
+        <test-method is-config="true" signature="AfterClass()[pri:0, instance:sample.testng.TestNG@3cebbb30]" started-at="2023-01-16T23:32:16 GMT-08:00" name="AfterClass" finished-at="2023-01-16T23:32:16 GMT-08:00" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterClass -->
+        <test-method is-config="true" signature="AfterSuite()[pri:0, instance:sample.testng.TestNG@3cebbb30]" started-at="2023-01-16T23:32:16 GMT-08:00" name="AfterSuite" finished-at="2023-01-16T23:32:16 GMT-08:00" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterSuite -->
+      </class> <!-- sample.testng.TestNG -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
